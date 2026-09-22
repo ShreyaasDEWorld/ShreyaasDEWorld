@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Shreyaas Dhamore
 
-<!--
-**ShreyaasDEWorld/ShreyaasDEWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database Architect | Data Engineer | Agentic AI Enthusiast
 
-Here are some ideas to get you started:
+I am a Database and Data Engineering professional with 14+ years
+of experience working with enterprise databases, data platforms,
+cloud technologies and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the intersection of:
+
+🚀 Data Engineering
+🤖 Agentic AI
+🧠 Generative AI
+☁️ Cloud Data Platforms
+🐍 Python
+❄️ Snowflake
+🗄️ PostgreSQL
+
+
+## 🛠️ Tech Stack
+
+### Database
+![Sybase](https://img.shields.io/badge/Sybase-ASE-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQL Server](https://img.shields.io/badge/MS_SQL_Server-Database-red)
+
+### Data Engineering
+
+![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Cloud-blue)
+![dbt](https://img.shields.io/badge/dbt-Analytics-orange)
+![Databricks](https://img.shields.io/badge/Databricks-Data%20Engineering-red)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+
+### AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-LLM-green)
+![RAG](https://img.shields.io/badge/RAG-GenAI-purple)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-LLM-black)
