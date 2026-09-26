@@ -2,9 +2,12 @@
 
 ### Database Architect | Data Engineer | Agentic AI Enthusiast
 
-I am a Database and Data Engineering professional with 14+ years
-of experience working with enterprise databases, data platforms,
-cloud technologies and AI-powered applications.
+![Profile Views](https://komarev.com/ghpvc/?username=ShreyaasDEWorld&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+14+ years of experience in Database Administration, Data Engineering,
+Cloud Data Platforms and AI-powered applications.
 
 Currently exploring the intersection of:
 
